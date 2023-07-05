@@ -1,10 +1,10 @@
 # Drug-Demand-Forecasting-XXXX
-A project that uses time series analysis and machine learning to predict the demand for various drugs. This could help XXXX better manage its inventory and reduce waste.
+### A project that uses time series analysis and machine learning to predict the demand for various drugs. This could help XXXX better manage its inventory and reduce waste.
 
 # 🌟 Drug Demand Forecasting for Healthcare - A McKesson Case Study 🌟
 
 Welcome to our project! We've embarked on a journey to solve a real-world problem faced by healthcare companies like McKesson: predicting the demand for various drugs to better manage inventory and reduce waste. 💊🏥
-
+![Alt text](Images/image.png)
 ## 🚀 Getting Started 🚀
 
 This project uses Python and several data science libraries. To get started, you'll need to install the required libraries. You can do this by running:
@@ -28,7 +28,7 @@ Our project consists of several steps:
 5. **Model Evaluation:** We evaluate our models using the Mean Absolute Percentage Error (MAPE), which gives us an idea of the average error of our models as a percentage of the actual values. 🎯📏
 
 6. **Model Deployment:** We create a function that takes in the features of a new data point and returns the predicted sales for each drug. This function can be used to make predictions on new data. 🚀🔮
-
+![Alt text](Images/image2.png)
 ## 🎉 Conclusion 🎉
 
 We hope you find this project interesting and educational. It demonstrates how data science can be used to solve real-world problems in the healthcare industry. However, our approach has some limitations and there's always room for improvement. So, feel free to fork this project and make your own contributions! 🎉🏁
